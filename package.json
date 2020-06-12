@@ -1,0 +1,27 @@
+{
+  "name": "@intact.software.systems/loan-computer",
+  "version": "1.0.0",
+  "description": "Loan computer",
+  "main": "index.js",
+  "scripts": {
+    "testLoan": "node test/ComputeLoan.Test.js",
+    "testLoans": "node test/ComputeLoans.Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intact-software-systems/loan-computer.git"
+  },
+  "keywords": [
+    "Loan"
+  ],
+  "author": "Knut-Helge Vik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intact-software-systems/loan-computer/issues"
+  },
+  "homepage": "https://github.com/intact-software-systems/loan-computer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
